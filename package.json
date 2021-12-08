@@ -1,0 +1,25 @@
+{
+  "name": "garbagescape",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A bright and enlighting syntax theme for use with Garbagescape-ui",
+  "keywords": [
+    "syntax",
+    "suburb",
+    "garbage",
+    "scape",
+    "garbagescape",
+    "dark",
+    "bright",
+    "yummy",
+    "tastey",
+    "tasty",
+    "colorful",
+    "theme"
+  ],
+  "repository": "https://github.com/mikemackintosh/atom-garbagescape",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
